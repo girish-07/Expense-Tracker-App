@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Main.css';
+import fire from '../config/Fire';
 import Login from "./Forms/Login";
 import Register from "./Forms/Register";
 
